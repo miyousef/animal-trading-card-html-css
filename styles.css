@@ -1,1 +1,42 @@
 /* add your CSS here */
+h3{
+  border: 1px;
+  border-radius: 15px;
+}
+
+.animalImage{
+  width: 300px;
+  height: 200px;
+  border: 1px solid;
+  border-radius: 15px;
+  margin-bottom: 13px;
+}
+
+.container{
+  width: 300px;
+  border: 1px solid #000000;
+  border-radius: 15px;
+  box-shadow: 5px 5px 0 0 #333333;
+  padding: 15px;
+  background-color: #C0C0C0;
+}
+
+.content{
+  border: 1px solid;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.intrstFact{
+  font-style: italic;
+}
+
+.list{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+span{
+  font-weight: bold;
+}
